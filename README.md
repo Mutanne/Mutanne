@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 🏆 72 Contributions in the Year 2020
  > 
-> 📦 2.5 kB Used in Github's Storage 
+> 📦 2.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,16 +59,16 @@ Sunday       17 commits     ██████████░░░░░░░�
 ⌚︎ Time Zone: America/Cuiaba
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Julia                    21 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hiworld                  21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
