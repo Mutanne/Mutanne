@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 📜 3 Public Repositories 
  > 
-3 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
