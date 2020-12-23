@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
 **🐱 My Github Data** 
 
@@ -59,16 +59,16 @@ Sunday       17 commits     ██████████░░░░░░░�
 ⌚︎ Time Zone: America/Cuiaba
 
 💬 Programming Languages: 
-Julia                    1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hiworld                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
