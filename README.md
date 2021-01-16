@@ -83,7 +83,7 @@ WebAssembly              1 repo              ███████████�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Mutanne/Mutanne/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Mutanne/Mutanne/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
