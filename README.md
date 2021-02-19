@@ -59,16 +59,16 @@ Sunday       17 commits     ██████████░░░░░░░�
 ⌚︎ Time Zone: America/Cuiaba
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Julia                    1 hr 7 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     1 hr 7 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hiworld                  1 hr 7 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.0%
 
 ```
 
