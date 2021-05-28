@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 🏆 15 Contributions in the Year 2021
  > 
-> 📦 3.1 kB Used in Github's Storage 
+> 📦 3.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
