@@ -59,16 +59,17 @@ Sunday       40 commits     █████████████░░░░�
 ⌚︎ Time Zone: America/Cuiaba
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      36 mins             ████████████░░░░░░░░░░░░░   51.4% 
+Python                   34 mins             ████████████░░░░░░░░░░░░░   48.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 10 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+py_files                 1 hr 10 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
@@ -86,5 +87,5 @@ WebAssembly              1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mutanne/Mutanne/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
