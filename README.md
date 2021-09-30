@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
+> 🏆 15 Contributions in the Year 2021
+ > 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -84,5 +86,5 @@ WebAssembly              1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mutanne/Mutanne/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
