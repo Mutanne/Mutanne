@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -30,48 +32,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-🌙 Night      25 commits     █████████████████████░░░░   86.21%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Tuesday      6 commits      █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-Wednesday    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Friday       6 commits      █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       7 commits      ██████░░░░░░░░░░░░░░░░░░░   24.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Cuiaba
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -86,5 +46,5 @@ WebAssembly              1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mutanne/Mutanne/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 21:02:23 UTC
+ Last Updated on 04/09/2022 21:02:15 UTC
 <!--END_SECTION:waka-->
